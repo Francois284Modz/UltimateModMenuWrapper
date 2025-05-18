@@ -130,7 +130,13 @@ if (debugMode.Value)
     // faire des logs
 }
 ```
+---
+✅ **Fait pour**:
 
+- Trainers Unity
+- Mods MelonLoader
+- Interfaces debug internes
+- Jeux IL2CPP (pas besoin de Unity UI, pas de GameObject requis)
 ---
 
 ## 🤝 **Contributions**
